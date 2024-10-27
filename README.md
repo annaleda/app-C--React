@@ -19,7 +19,7 @@ $env:Path += ";C:\Program Files\dotnet"
 ```
 ### verifica version
 ```plaintext
-donnet --version
+dotnet --version
 ```
 ### create app BE
 ```plaintext
