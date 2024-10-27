@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1k5qiqt70Qdw2WlLVdgMr2Iah8SYqEiUj30fj2q9s9G8LyI1WkDuLWDuzKEiVinxtxe9vbrs0FohNdko/jyzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\annaleda.coccia\\OneDrive - RGI SpA\\Desktop\\Project\\app-C--React\\MyAppBackend\\MyAppBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.20\\microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\annaleda.coccia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
