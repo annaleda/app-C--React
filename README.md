@@ -25,3 +25,16 @@ dotnet --version
 ```plaintext
 dotnet new webapi -n MyAppBackend
 ```
+### aggioungi il cors
+```plaintext
+notepad Controllers/WeatherForecastController.cs
+```
+#
+### create app FE
+```plaintext
+npm config set registry https://registry.npmjs.org/
+```
+
+```plaintext
+npx create-react-app frontend
+```
